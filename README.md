@@ -2,19 +2,20 @@
 
 This repo is for Math notes and exercise solutions for future references.
 
+## Table of Contents
+
+1. [Trigonometry](./trigonometry/notes/contents.md)
+2. Analytical Geometry
+
 ## Required VS Code Extensions:
 
 1. [Markdown+Math](https://marketplace.visualstudio.com/items?itemName=goessner.mdmath) for VS Code Math preview of latex. Example:
 
 $$
 \begin{align*}
-e^{i\pi} &= -1
-\end{align*} 
-$$
-$$
-\begin{align*}
+e^{i\pi} &= -1 \\
 a + ar + ar^2 + ar^3 + \ldots &= \frac{a}{1+r} \quad ; \quad r < 1
-\end{align*} 
+\end{align*}
 $$
 
 3. [Math Snippets](https://marketplace.visualstudio.com/items?itemName=thomanq.math-snippets) for autocomplete of math symbols.

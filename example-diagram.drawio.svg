@@ -1,5 +1,123 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="411px" height="341px" viewBox="-0.5 -0.5 411 341" content="&lt;mxfile&gt;&lt;diagram id=&quot;6zKne99P2pU1Dk2iX_JD&quot; name=&quot;Page-1&quot;&gt;7VhLj5swEP41SO2hEea1yXFfbS+VVtpDt6fKCw5YazAyTkL219cOBmxMRHbLporUHCJmPLaZ7xvPjHH827z+xmCZ/aAJIo7nJrXj3zmeB1aR+JeKfaPwgdsoUoYTZdMrHvErUsrWbIMTVBmGnFLCcWkqY1oUKOaGDjJGd6bZmhJz1xKmyFI8xpDY2p844VmjXXpXvf47wmnW7gyiVTOSw9ZYeVJlMKE7TeXfO/4to5Q3T3l9i4jErsWlmff1yGj3YgwV/JQJ6o23kGyUb+q9+L51ltFNkSBp7zr+zS7DHD2WMJajO8Gu0GU8J0IC4jGnW/h8mCmNGarwqy5TDrkmi7BAuowSrIuExi+HjeXKikttWL06YhzVR90HHagiGBHNEWd7YdJOCBUPKhA9V8m7ntagjbpMo9QPlBKqUEq7tXu0xYMCfBx8bxp8MUEENZoGHlZlE+lrXEvMLo0Jb8hEZDPRsaMz0Sn/hongBCaK5FqmDiHFBFYVjoXjFYeM2+rRAwEGNIABDWBAAzBpADoNrkWDHKYiOjCXAIY9KyixctkkJxrm4QjkrY4hAjnemsuP0aB2eKBYbNwfvmVoUO6Hq0VkLlLRDYuRmqenscFSIZhcSjCVIm4tdYiMzvWTgiV8U7AUtEBmSAj02f5JF361p04Kd7Uh7Y0zNs2mKIUHT7UU868I9gdn2o/c99HbpeB2oWH2nY/c6D+5p5EbeJdH7nKa3Ioz+tJ1dcAkV3RrpbTL61T2tYs1obs4EyVgAYtCpnJMi9+erMYEp4UwJGjNZd6Gz4g80ApLA6FmDRs3pfQJsfutYLnSS0Jj9mU1U3H1l0cgNoqrHSpXM5TW1YVhDpYzgR74g45mdT7Qgd3QAAt24RofNJEKwhhJiIRCAoDFvedaDeQ4ScixbtS8KMwRtsP6MdKdR2PN+RwI2lU+ppVQfKo/XyCS0aA/WtpIjtUKbw4k7ZJa4eJSkQyGMdkGyjmQtG/rTxeI4LAYjdz0PuxUn1CNUuFxedRP89bldLy+4Sy65lkc++Yw6v8cIeRP+//Oi+47Lp+rcZzO1L8Gi8jVfp4ZlEOwT+5mwwU4viz4sNYW2L3trzPnhtEImEoV0zEwUy4QYv9ZtQG4/zbt3/8B&lt;/diagram&gt;&lt;/mxfile&gt;">
-    <defs/>
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="411px" height="341px" viewBox="-0.5 -0.5 411 341" content="&lt;mxfile&gt;&lt;diagram id=&quot;6zKne99P2pU1Dk2iX_JD&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <style xmlns="http://www.w3.org/1999/xhtml" id="MJX-SVG-styles">
+            mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] &gt; svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax="SVG"] &gt; svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][display="true"][width="full"] {
+  display: flex;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] &gt; g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] &gt; rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] &gt; g &gt; svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool &gt; mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool &gt; mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
+  stroke-width: 3;
+}
+        </style>
+    </defs>
     <g>
         <g>
             <rect x="0" y="0" width="410" height="340" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
@@ -59,55 +177,88 @@
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 190px; margin-left: 216px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    cos (x)
+                                    <div>
+                                        <span style="background-color: transparent; color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));">
+                                            <mjx-container class="MathJax" jax="SVG" display="true">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="4.199ex" height="1.62ex" role="img" focusable="false" viewBox="0 -705 1856 716" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.025ex;">
+                                                    <defs>
+                                                        <path id="MJX-46-TEX-I-1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"/>
+                                                        <path id="MJX-46-TEX-I-1D45C" d="M201 -11Q126 -11 80 38T34 156Q34 221 64 279T146 380Q222 441 301 441Q333 441 341 440Q354 437 367 433T402 417T438 387T464 338T476 268Q476 161 390 75T201 -11ZM121 120Q121 70 147 48T206 26Q250 26 289 58T351 142Q360 163 374 216T388 308Q388 352 370 375Q346 405 306 405Q243 405 195 347Q158 303 140 230T121 120Z"/>
+                                                        <path id="MJX-46-TEX-I-1D460" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"/>
+                                                        <path id="MJX-46-TEX-I-1D703" d="M35 200Q35 302 74 415T180 610T319 704Q320 704 327 704T339 705Q393 701 423 656Q462 596 462 495Q462 380 417 261T302 66T168 -10H161Q125 -10 99 10T60 63T41 130T35 200ZM383 566Q383 668 330 668Q294 668 260 623T204 521T170 421T157 371Q206 370 254 370L351 371Q352 372 359 404T375 484T383 566ZM113 132Q113 26 166 26Q181 26 198 36T239 74T287 161T335 307L340 324H145Q145 321 136 286T120 208T113 132Z"/>
+                                                    </defs>
+                                                    <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                                                        <g data-mml-node="math">
+                                                            <g data-mml-node="mi">
+                                                                <use data-c="1D450" xlink:href="#MJX-46-TEX-I-1D450"/>
+                                                            </g>
+                                                            <g data-mml-node="mi" transform="translate(433,0)">
+                                                                <use data-c="1D45C" xlink:href="#MJX-46-TEX-I-1D45C"/>
+                                                            </g>
+                                                            <g data-mml-node="mi" transform="translate(918,0)">
+                                                                <use data-c="1D460" xlink:href="#MJX-46-TEX-I-1D460"/>
+                                                            </g>
+                                                            <g data-mml-node="mi" transform="translate(1387,0)">
+                                                                <use data-c="1D703" xlink:href="#MJX-46-TEX-I-1D703"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </svg>
+                                            </mjx-container>
+                                        </span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
                     <text x="240" y="194" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        cos (x)
+                        $$ cos \...
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <rect x="300" y="115" width="50" height="20" fill="none" stroke="none" pointer-events="all"/>
+            <rect x="290" y="115" width="60" height="20" fill="none" stroke="none" pointer-events="all"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 125px; margin-left: 301px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 125px; margin-left: 291px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    sin (x)
+                                    <mjx-container class="MathJax" jax="SVG" display="true">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="4.26ex" height="1.62ex" role="img" focusable="false" viewBox="0 -705 1883 716" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.025ex;">
+                                            <defs>
+                                                <path id="MJX-47-TEX-I-1D460" d="M131 289Q131 321 147 354T203 415T300 442Q362 442 390 415T419 355Q419 323 402 308T364 292Q351 292 340 300T328 326Q328 342 337 354T354 372T367 378Q368 378 368 379Q368 382 361 388T336 399T297 405Q249 405 227 379T204 326Q204 301 223 291T278 274T330 259Q396 230 396 163Q396 135 385 107T352 51T289 7T195 -10Q118 -10 86 19T53 87Q53 126 74 143T118 160Q133 160 146 151T160 120Q160 94 142 76T111 58Q109 57 108 57T107 55Q108 52 115 47T146 34T201 27Q237 27 263 38T301 66T318 97T323 122Q323 150 302 164T254 181T195 196T148 231Q131 256 131 289Z"/>
+                                                <path id="MJX-47-TEX-I-1D456" d="M184 600Q184 624 203 642T247 661Q265 661 277 649T290 619Q290 596 270 577T226 557Q211 557 198 567T184 600ZM21 287Q21 295 30 318T54 369T98 420T158 442Q197 442 223 419T250 357Q250 340 236 301T196 196T154 83Q149 61 149 51Q149 26 166 26Q175 26 185 29T208 43T235 78T260 137Q263 149 265 151T282 153Q302 153 302 143Q302 135 293 112T268 61T223 11T161 -11Q129 -11 102 10T74 74Q74 91 79 106T122 220Q160 321 166 341T173 380Q173 404 156 404H154Q124 404 99 371T61 287Q60 286 59 284T58 281T56 279T53 278T49 278T41 278H27Q21 284 21 287Z"/>
+                                                <path id="MJX-47-TEX-I-1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"/>
+                                                <path id="MJX-47-TEX-I-1D703" d="M35 200Q35 302 74 415T180 610T319 704Q320 704 327 704T339 705Q393 701 423 656Q462 596 462 495Q462 380 417 261T302 66T168 -10H161Q125 -10 99 10T60 63T41 130T35 200ZM383 566Q383 668 330 668Q294 668 260 623T204 521T170 421T157 371Q206 370 254 370L351 371Q352 372 359 404T375 484T383 566ZM113 132Q113 26 166 26Q181 26 198 36T239 74T287 161T335 307L340 324H145Q145 321 136 286T120 208T113 132Z"/>
+                                            </defs>
+                                            <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                                                <g data-mml-node="math">
+                                                    <g data-mml-node="mi">
+                                                        <use data-c="1D460" xlink:href="#MJX-47-TEX-I-1D460"/>
+                                                    </g>
+                                                    <g data-mml-node="mi" transform="translate(469,0)">
+                                                        <use data-c="1D456" xlink:href="#MJX-47-TEX-I-1D456"/>
+                                                    </g>
+                                                    <g data-mml-node="mi" transform="translate(814,0)">
+                                                        <use data-c="1D45B" xlink:href="#MJX-47-TEX-I-1D45B"/>
+                                                    </g>
+                                                    <g data-mml-node="mi" transform="translate(1414,0)">
+                                                        <use data-c="1D703" xlink:href="#MJX-47-TEX-I-1D703"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </svg>
+                                    </mjx-container>
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="325" y="129" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        sin (x)
-                    </text>
-                </switch>
-            </g>
-        </g>
-        <g>
-            <rect x="330" y="160" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
-        </g>
-        <g>
-            <g transform="translate(-0.5 -0.5)">
-                <switch>
-                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 175px; margin-left: 331px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    X
-                                </div>
-                            </div>
-                        </div>
-                    </foreignObject>
-                    <text x="360" y="179" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        X
+                    <text x="320" y="129" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        $$ sin \th...
                     </text>
                 </switch>
             </g>
@@ -119,22 +270,38 @@
             <path d="M 200.1 11.12 L 203.59 18.12 L 200.09 16.37 L 196.59 18.11 Z" fill-opacity="0.5" fill="#000000" stroke="#000000" stroke-opacity="0.5" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
         </g>
         <g>
-            <rect x="155" y="0" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+            <path d="M 216.45 141.94 L 217.12 142.02 L 218.18 142.4 L 219.29 142.96 L 220.09 143.54 L 221.14 144.48 L 221.89 145.2 L 222.69 146.05 L 223.51 147.27 L 223.89 148.38 L 224.2 149.53 L 224.53 150.74 L 224.72 151.99 L 224.96 153.17 L 225.13 154.16 L 225.16 155.19 L 225.18 156.29 L 225.2 157.43 L 225.23 158.46 L 224.39 160.27 L 224.07 160.51 L 223.7 160.65 L 223.3 160.65 L 222.92 160.53 L 222.6 160.3 L 222.37 159.97 L 222.26 159.59 L 222.28 159.19 L 222.42 158.82 L 222.67 158.51 L 223.01 158.3 L 223.4 158.21 L 223.79 158.25 L 224.16 158.41 L 224.45 158.68 L 224.64 159.03 L 224.71 159.42 L 224.65 159.81 L 224.47 160.17 L 224.19 160.44 L 223.83 160.62 L 223.43 160.66 L 223.04 160.58 L 222.7 160.39 L 222.44 160.09 L 222.28 159.72 L 222.26 159.32 L 222.36 158.94 L 222.58 158.61 L 222.58 158.61 L 222.77 158.46 L 222.8 157.43 L 222.82 156.29 L 222.83 155.22 L 222.8 154.09 L 222.52 152.76 L 222.42 151.79 L 222.21 150.76 L 221.84 149.54 L 221.57 148.54 L 221.07 147.53 L 220.34 146.66 L 219.43 145.63 L 218.56 144.83 L 217.73 144.23 L 216.83 143.74 L 216.17 143.6 L 215.97 143.55 L 215.8 143.44 L 215.65 143.3 L 215.54 143.13 L 215.48 142.93 L 215.46 142.73 L 215.5 142.53 L 215.58 142.34 L 215.7 142.18 L 215.86 142.05 L 216.04 141.97 L 216.24 141.93 L 216.45 141.94 L 216.45 141.94" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="200" y="130" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 15px; margin-left: 156px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 145px; margin-left: 201px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    Y
+                                    <mjx-container class="MathJax" jax="SVG" display="true">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="1.061ex" height="1.618ex" role="img" focusable="false" viewBox="0 -705 469 715" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.023ex;">
+                                            <defs>
+                                                <path id="MJX-48-TEX-I-1D703" d="M35 200Q35 302 74 415T180 610T319 704Q320 704 327 704T339 705Q393 701 423 656Q462 596 462 495Q462 380 417 261T302 66T168 -10H161Q125 -10 99 10T60 63T41 130T35 200ZM383 566Q383 668 330 668Q294 668 260 623T204 521T170 421T157 371Q206 370 254 370L351 371Q352 372 359 404T375 484T383 566ZM113 132Q113 26 166 26Q181 26 198 36T239 74T287 161T335 307L340 324H145Q145 321 136 286T120 208T113 132Z"/>
+                                            </defs>
+                                            <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                                                <g data-mml-node="math">
+                                                    <g data-mml-node="mi">
+                                                        <use data-c="1D703" xlink:href="#MJX-48-TEX-I-1D703"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </svg>
+                                    </mjx-container>
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="185" y="19" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        Y
+                    <text x="230" y="149" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
+                        $$\theta$$
                     </text>
                 </switch>
             </g>

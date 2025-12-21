@@ -3,5 +3,7 @@
     "files.autoSaveDelay": 1000,
     "editor.snippetSuggestions": "top",
     "editor.tabCompletion": "on",
-    "mdmath.delimiters": "dollars"
+    "cSpell.words": ["Drawio", "LaTeX", "Mermaid", "VSCode"],
+    "cSpell.ignoreWords": ["ar", "π"],  // math terms
+    "cSpell.enabledLanguageIds": ["markdown", "latex"]
 }

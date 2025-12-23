@@ -4,7 +4,7 @@ This repo is for Math notes and exercise solutions for future references.
 
 ## Table of Contents
 
-1. [Trigonometry](./trigonometry/notes/contents.md)
+1. [Trigonometry](./src/trigonometry/notes/contents.md)
 2. Analytical Geometry
 
 ## Required VS Code Extensions:
@@ -32,3 +32,19 @@ flowchart TD
 
 5. [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) for complex diagrams like,
 <img src="./example-diagram.drawio.svg" alt="Example Diagram" width="100%"/>
+
+## mdbook setup:
+1. Install mdbook by
+```bash
+brew install mdbook
+```
+
+2. To build static page use,
+```bash
+mdbook build
+```
+
+3. To spin-up live server use,
+```bash
+mdbook serve # Access it at localhost:3000. It will react to changes to .mds
+```

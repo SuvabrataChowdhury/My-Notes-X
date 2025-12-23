@@ -1,9 +1,0 @@
-[book]
-title = "Mathmatics"
-authors = ["I578071"]
-language = "en"
-
-[output.html]
-mathjax-support = true
-smart-punctuation = false
-additional-js = ["src/theme/mathjax-config.js"]

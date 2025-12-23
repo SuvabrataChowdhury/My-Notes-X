@@ -1,5 +1,5 @@
 # Angle Measurement
-**Problem**: Given a circle of radius \\( r \\) and a randomly chosen point $P$ on the circumference of the circle, find a quantity(s) that can uniquely refer to $P$.
+**Problem**: Given a circle of radius $r$ and a randomly chosen point $P$ on the circumference of the circle, find a quantity(s) that can uniquely refer to $P$.
 
 ![Circle angle](/trigonometry/notes/images/circle-angle.drawio.svg)
 

@@ -1,4 +1,5 @@
 # Angle Measurement
+
 **Problem**: Given a circle of radius $r$ and a randomly chosen point $P$ on the circumference of the circle, find a quantity(s) that can uniquely refer to $P$.
 
 ![Circle angle](/trigonometry/notes/images/circle-angle.drawio.svg)
@@ -9,7 +10,7 @@ So, reaching $P$ can be thought of as starting from $M$ if we **move some amount
 
 This quantity is referred to as **angle** of rotation and mostly is denoted by the greek symbol $\theta$.
 
-> **Note:** This movement/ rotation is by convention anti-clockwise. If the movement is done clock-wise then $\theta$ is considered negative, else positive.
+> **Note:** This movement/rotation is by convention anti-clockwise. If the movement is done clock-wise then $\theta$ is considered negative, else positive.
 
 ## Desirable Properties of angle measurement
 To derive an expression for $\theta$ with respect to the circle it must follow the following properties,
@@ -43,7 +44,7 @@ $$
 This actually captures the invariance as this ratio must be same for any circle. Reason being it's a proportion between the arc length covered to the full length i.e., the circumference that can be covered.
 
 ## Actual Expression
-The [Proportional Distance](#possible-solutions) definition satisfies all of the properties mentioned [here](#desirable-properties-for-the-measurement) but if we see the expression we can extract a constant term out namely $\frac{1}{2\pi}$ which does not depend on the circle or $P$. This way we get the true expression of the anglement measurement,
+The [Proportional Distance](#possible-solutions) definition satisfies all of the properties mentioned [here](#desirable-properties-for-the-measurement) but it is possible to extract a constant term out namely $\frac{1}{2\pi}$ which does not depend on the circle or $P$. This way we get the true expression of the anglement measurement,
 
 $$ 
 \boxed{\therefore \quad \theta = \frac{s}{r} \quad [s = \widehat{PM}]}

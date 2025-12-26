@@ -1,6 +1,6 @@
 # Trigonometric Functions
 
-## Ratio Definitions
+## Triangle Definitions
 Given a right-angled triangle $\triangle ABC$, we label it as follows,
 ![Right Triangle](./images/right-triangle.drawio.svg)
 

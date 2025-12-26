@@ -15,8 +15,8 @@
 
 - [What's Trigonometry?]()
 - [Angle Measurement](./trigonometry/notes/angle-measurement.md) <!-- Break it up into some segments -->
-- [Trigonometric Functions](./trigonometry/notes/trig-functions/README.md) <!-- Intro to the 6 functions as ratios -->
-    - [Transforming ratios to Functions]()
+- [Trigonometric Functions](./trigonometry/notes/trig-functions/README.md)
+    - [Unit Circle Definitions of Trigonometric Functions](./trigonometry/notes/trig-functions/unit-circle-definitions/unit-circle-definitions.md)
     - [Basic Identities]() <!-- Derived from pythagoras -->
     - [Sum Angle Identities]()
     - [Double Angle Identities]()
@@ -31,3 +31,6 @@
 ---
 
 # Analytical Geometry
+
+- [Introduction]()
+- [Scalars and Vectors]()

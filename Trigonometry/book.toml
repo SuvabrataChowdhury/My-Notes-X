@@ -6,4 +6,4 @@ language = "en"
 [output.html]
 mathjax-support = true
 smart-punctuation = false
-additional-js = ["src/theme/mathjax-config.js"]
+theme = "src/theme"
